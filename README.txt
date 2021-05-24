@@ -2,6 +2,7 @@ Kimberly Burke
 900lbs of Creative Unity Developer Programming Test
 5-24-2021
 ==================================================================================
+Run main.unity scene.
 Able to run in Untiy Editor on device with Webcam.
 Image Target is set to VuforiaMars_Images/Astronaut. 
 Program will spawn a Cube object when AR camera detects image target.
@@ -25,7 +26,8 @@ FEATURES IN PROGRESS
 These are additional features that I either conceptualized for this project or began working on.
 Due to the time constraint, these features are still in progress.
 1. Full color picker using Asset Store plugin.
-2. Detect orientation of device to switch the speed/buffers of certain actions. 
+2. Detect orientation of device to switch the speed/buffers of certain actions. (Currently only
+calibrated for landscape orientation.)
 3. Scale rotation with scaled size.
 =================================================================================
 RESOURCES

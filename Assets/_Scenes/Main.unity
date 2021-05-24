@@ -769,7 +769,7 @@ MonoBehaviour:
   debugObject: {fileID: 45295649}
   colorSlideAnim: {fileID: 1719085616}
   lastPosition: {x: 0, y: 0}
-  rotatespeed: {x: 3500, y: 3000}
+  rotatespeed: {x: 300, y: 200}
   rotateBuffers: {x: 10, y: 5}
   instructAnim: {fileID: 192921909}
 --- !u!1 &118008617
@@ -1477,7 +1477,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 966780892}
+  - {fileID: 999951929}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2789,13 +2789,13 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e3cb3f4a62433b4087a2851639bfea5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   lastPosition: {x: 0, y: 0}
-  rotatespeed: {x: 3000, y: 2000}
+  rotatespeed: {x: 200, y: 300}
   rotateBuffers: {x: 10, y: 10}
   lastDistance: {x: 0, y: 0}
   maxScale: 5
@@ -2939,7 +2939,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!21 &966780892
+--- !u!21 &999951929
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
@@ -2948,7 +2948,7 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: 'AstronautMaterial
 
-    29074'
+    17284'
   m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 5
