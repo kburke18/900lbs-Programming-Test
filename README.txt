@@ -2,6 +2,7 @@ Kimberly Burke
 900lbs of Creative Unity Developer Programming Test
 5-24-2021
 ==================================================================================
+Run main.unity scene.
 Able to run in Untiy Editor on device with Webcam.
 Image Target is set to VuforiaMars_Images/Astronaut. 
 Program will spawn a Cube object when AR camera detects image target.
